@@ -1,0 +1,9 @@
+node_modules
+data
+# .env SENGAJA DI-IKUTKAN dalam image Railway supaya token langsung jalan.
+# Kalau mau lebih aman, hapus baris ini dan set Variables di dashboard Railway
+# (Variables dashboard selalu menimpa nilai .env).
+.git
+.gitignore
+preview
+*.zip
